@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "audio-box", "audio-box\audio-box.csproj", "{1B839648-37F9-4053-BD36-FC79A855321F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B839648-37F9-4053-BD36-FC79A855321F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B839648-37F9-4053-BD36-FC79A855321F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B839648-37F9-4053-BD36-FC79A855321F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B839648-37F9-4053-BD36-FC79A855321F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01EFBB09-F41E-4367-8FAA-B3D04C968093}
+	EndGlobalSection
+EndGlobal

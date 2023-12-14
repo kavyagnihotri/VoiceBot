@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SWZIe7Kz8LZUvw6BF1JNj6cbRf7MvKbDJZ21qfji69VN7oDsm3ITO8hjFJGGPbUZQAbLH05dE2o6svVA8lWTWw==",
+  "success": true,
+  "projectFilePath": "/Users/kavyagnihotri/Documents/personal/acads/4-1/chatbot for blindchildren/gitrepo/VoiceBot/CLU-Speech/audio-box/audio-box/audio-box.csproj",
+  "expectedPackageFiles": [
+    "/Users/kavyagnihotri/.nuget/packages/microsoft.cognitiveservices.speech/1.32.1/microsoft.cognitiveservices.speech.1.32.1.nupkg.sha512"
+  ],
+  "logs": []
+}
